@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+.prose {
+  line-height: 1.55; /* Puedes usar cualquier valor que necesites */
+}
